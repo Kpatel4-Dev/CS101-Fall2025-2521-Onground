@@ -18,11 +18,11 @@ Welcome to Unit 1! Here's what you'll be working on:
 - On-ground students: We’ll complete this lab **together in class**
 - Online students: A **video walkthrough** will be posted on **Canvas**
 
-** First Lab in Python: [Lab 1: Intro to Python](Unit01_Intro/IntroToPython/LabInstruction_README.md)
+## First Lab in Python Instructions: [Lab 0: Intro to Python](Unit01_Intro/IntroToPython/LabInstruction_README.md)
 
 ---
-
 Make sure to check Canvas regularly for updates, due dates, and resources. Happy coding!
+
 ---
 # 📚 CS101 – Unit 2: Programming Fundamentals Overview
 
@@ -32,7 +32,11 @@ This unit includes a mix of Snap! and Python activities to build your programmin
 
 ### ✅ What to Complete
 - [ ] 5 Snap Labs  
-- [ ] 4 Python Labs  
+- [ ] 4 Python Labs
+     + Lab 1 Python Basics Instructions: [Lab 1: Python Basics](Unit02_Fundamentals/Lab01/Lab01_Instruction_README.md)
+     + Lab 2 Branching/Looping Instructions:
+     + Lab 3 String MethodsInstructions:
+     + Lab 4 List StoryTeller Instructions:
 - [ ] 2 Python Programming Homework assignments  
 - [ ] 2 Snap Programming Homework assignments
 
