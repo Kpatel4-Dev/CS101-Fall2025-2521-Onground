@@ -50,7 +50,7 @@ This unit includes a mix of Snap! and Python activities to build your programmin
 
 ---
 
-# 🧠 CS101 – Advanced Programming Concepts Overview
+# 🧠 CS101 – Unit 3 - Advanced Programming Concepts Overview
 
 This unit dives deeper into Python programming with a focus on file input/output and GUI development using Tkinter. 
 You'll explore real-world applications and enhance your coding fluency through hands-on labs and demos.
