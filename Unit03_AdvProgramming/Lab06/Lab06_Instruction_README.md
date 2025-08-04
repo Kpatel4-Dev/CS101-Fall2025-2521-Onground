@@ -38,7 +38,7 @@ Now each one of your group members is going to add a line to the file with your 
 
 You may have noticed the \n at the end, that is because I want the next name and food to be on the next line. 
 One thing you may not have realized is that *whitespace, new-line, and tab* are characters! When you are dealing with files you need to be very specific with every **line** and **space** you read or write.
----
+
 ### Step 2 
 
 After all of you have put your name and favorite food on seperate lines of the file make sure the file is closed and run it! You can see the file has been updated with all the new information.
@@ -58,7 +58,7 @@ To break it down these lines of code are going to:
 3) Print a new statement with the information from the file
 
 Copy that function into the program and see what the output looks like. 
----
+
 ### Step 3 
 You may have noticed the **mystery song** file...It's the first part of one of my favorite songs from the year 2013. Except when I was reading in the lyrics from Google I read all the capital letters correctly, but I accidently reversed all the lowercase letters. Instead of using "a", I used "z", and I did this for every letter. This is my favorite song and I may never know the lyrics if you do not help me. 
 I know how to change the letter 'z' to 'a' but I need help with the rest of the letters.
@@ -74,7 +74,7 @@ I know how to change the letter 'z' to 'a' but I need help with the rest of the 
 You are going to have to work with your group to make solving this one easier, split up some of the letters amongst your group. **Remember that I only messed up the lowercase letters, every other letter and space should stay as it is.** 
 
 *Hint: This means that there will probably be a case for "everything **else**" where we just pass on the letter.*
----
+
 **Don't forget to close the file!**
 
 On looking at the final solved output it does look like I messed up another time. I mixed up some of the letters again! I am sure you can figure out what song it is with the mistake, but if anyone in your group likes puzzles then try to code the program to output the correct letters! 
